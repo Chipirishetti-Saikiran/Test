@@ -1,0 +1,11 @@
+{
+  "name": "login-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  }
+}
